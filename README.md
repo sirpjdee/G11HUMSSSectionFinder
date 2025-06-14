@@ -1,4 +1,3 @@
-# G11HUMSSSectionFinder
 <!DOCTYPE html>
 <html lang="en">
 <head>
